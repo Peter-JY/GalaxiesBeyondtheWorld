@@ -1,2 +1,2 @@
 # GalaxiesBeyondtheWorld
-An uncompleted planet pack for Kerbal Space Program (KSP)
+An unfinished planet pack for Kerbal Space Program (KSP)
