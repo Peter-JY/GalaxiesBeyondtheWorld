@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFixer", "TimeFixer.csproj", "{73CBD35A-6730-4D7E-B88D-30272FD40334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73CBD35A-6730-4D7E-B88D-30272FD40334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CBD35A-6730-4D7E-B88D-30272FD40334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CBD35A-6730-4D7E-B88D-30272FD40334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CBD35A-6730-4D7E-B88D-30272FD40334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B515682-80E8-4ABD-A392-31BABB14734A}
+	EndGlobalSection
+EndGlobal

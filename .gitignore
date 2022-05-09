@@ -1,4 +1,6 @@
 
-Core/TimeFixer/
+Core/TimeFixer/.vs/
+Core/TimeFixer/bin/
+Core/TimeFixer/obj/
 Core/RSSTimeFormatter/
 Texutres/
